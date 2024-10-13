@@ -31,7 +31,7 @@ function App() {
       type="text"
       name="firstName"
       id="firstName"
-      placeholder="Love"
+      placeholder="Devansh"
       value={formData.firstName}
       onChange={changeHandler}
       className="outline"
@@ -44,7 +44,7 @@ function App() {
       type="text"
       name="lastName"
       id="lastName"
-      placeholder="Babbar"
+      placeholder="Rusiya"
       value={formData.lastName}
       onChange={changeHandler}
       className="outline"
@@ -57,7 +57,7 @@ function App() {
       type="email"
       name="email"
       id="email"
-      placeholder="love@abcd.com"
+      placeholder="devanshrusiya8@gmail.com"
       value={formData.email}
       onChange={changeHandler}
       className="outline"
@@ -87,7 +87,7 @@ function App() {
       type="text"
       name="streetAddress"
       id="streetAddress"
-      placeholder="B-25C"
+      placeholder="164 gusaipura near doctor mehra clinic jhansi"
       value={formData.streetAddress}
       onChange={changeHandler}
       className="outline"
@@ -100,7 +100,7 @@ function App() {
       type="text"
       name="city"
       id="city"
-      placeholder="B-25C"
+      placeholder="jhansi"
       value={formData.city}
       onChange={changeHandler}
       className="outline"
@@ -113,7 +113,7 @@ function App() {
       type="text"
       name="state"
       id="state"
-      placeholder="Bihar"
+      placeholder="Uttar Pradesh"
       value={formData.state}
       onChange={changeHandler}
       className="outline"
@@ -126,7 +126,7 @@ function App() {
       type="text"
       name="postalCode"
       id="postalCode"
-      placeholder="110077"
+      placeholder="284002"
       value={formData.postalCode}
       onChange={changeHandler}
       className="outline"
